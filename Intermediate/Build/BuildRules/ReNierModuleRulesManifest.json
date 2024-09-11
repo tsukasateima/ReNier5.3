@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\ReNier\\ReNier\\Source\\ReNier\\ReNier.Build.cs",
+		"D:\\ReNier\\ReNier\\Source\\ReNier.Target.cs",
+		"D:\\ReNier\\ReNier\\Source\\ReNierEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ReNier",
+			"Path": "..\\Source\\ReNier.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ReNierEditor",
+			"Path": "..\\Source\\ReNierEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
